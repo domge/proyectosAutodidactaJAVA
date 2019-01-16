@@ -19,3 +19,16 @@ https://www.mecanicoautomotriz.org/973-manual-ford-mondeo-2001-equipamiento
 
 Para comprar el manual de usuario del Mondeo:
 r196982431
+
+Enlaces pendientes:
+http://www.jtech.ua.es/j2ee/publico/spring-2012-13/sesion03-apuntes.html
+
+https://es.stackoverflow.com/questions/118266/diferencias-ente-spring-boot-y-spring-mvc
+
+https://es.stackoverflow.com/questions/54346/como-crear-interfaces-gr%C3%A1ficos-en-java/54364
+
+https://docs.oracle.com/cd/E13222_01/wls/docs100/ejb30/examples.html
+
+https://www.paradigmadigital.com/dev/definir-prototipar-api-rest/
+
+https://quediferenciahay.com/que-diferencia-hay-entre-api-y-servicio-web/
