@@ -1,5 +1,5 @@
 Lo que me comentó Santi para el tema de desarrollo es montarme un:
-En GitHub todo el tema de pulls, push etc. conectado con proyectos Java Maven y mediante JPA acceder a una MySQL o Santi me recomendó utilizar PostgreSQL
+En GitHub todo el tema de pulls, push etc. conectado con proyectos Java Maven, Spring MVC y mediante JPA acceder a una MySQL o Santi me recomendó utilizar PostgreSQL
 
 
 Enlaces pendientes:
