@@ -2,15 +2,19 @@ Lo que me comentó Santi para el tema de desarrollo es montarme un:
 En GitHub todo el tema de pulls, push etc. conectado con proyectos Java Maven, Spring MVC y mediante JPA acceder a una MySQL o Santi me recomendó utilizar PostgreSQL
 
 
-Enlaces pendientes:
-http://www.jtech.ua.es/j2ee/publico/spring-2012-13/sesion03-apuntes.html
 
-https://es.stackoverflow.com/questions/118266/diferencias-ente-spring-boot-y-spring-mvc
+Pisos:
 
-https://es.stackoverflow.com/questions/54346/como-crear-interfaces-gr%C3%A1ficos-en-java/54364
+https://www.idealista.com/inmueble/81727387/ 600
 
-https://docs.oracle.com/cd/E13222_01/wls/docs100/ejb30/examples.html
+https://www.idealista.com/inmueble/83922620/ 625
 
-https://www.paradigmadigital.com/dev/definir-prototipar-api-rest/
+https://www.idealista.com/inmueble/83887095/ 650
 
-https://quediferenciahay.com/que-diferencia-hay-entre-api-y-servicio-web/
+https://www.idealista.com/inmueble/83874549/ 618
+
+https://www.idealista.com/inmueble/83240507/ 650
+
+https://www.idealista.com/inmueble/39739185/ 575
+
+https://www.idealista.com/inmueble/83840472/ 600
