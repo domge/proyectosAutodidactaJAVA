@@ -75,17 +75,6 @@ Factory Inferno - Alan Silvestri
 
 Varios:
 ---------------------------------------------------
-Jarabe de Palo:
-Agua
-Bonito
-Tú me hacías sonreír
-
-Pablo López:
-El Patio
-
-Manu Chao:
-La vecina del patio
-No solo en china hay futuro
 
 Antílopez:
 Jurelillos de Urbe
@@ -104,7 +93,19 @@ Elvis Presley:
 De la película de 1956 Love Me Tender:
 -Let Me - Elvis
 
-Greta Van Fleet - Highway Tune
+Jarabe de Palo:
+Agua descargada 
+Bonito descargada
+Tú me hacías sonreír descargada
+Depende descargada
+
+Manu Chao:
+La vecina del patio descargada
+No solo en china hay futuro descargada
+
+Pablo López:
+El Patio descargada
+
 -----------------------------------------------------------------
 Para poner en una futura carpeta blues:
 Willie Dixon - Sittin' And Cryin' The Blues
