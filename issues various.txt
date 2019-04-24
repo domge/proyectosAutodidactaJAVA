@@ -1,7 +1,3 @@
-Lo que me comentó Santi para el tema de desarrollo es montarme un:
-En GitHub todo el tema de pulls, push etc. conectado con proyectos Java Maven, Spring MVC y mediante JPA acceder a una MySQL o Santi me recomendó utilizar PostgreSQL
-
-
 Pisos a la hora de alquilar:
 ¿IBI, comunidad?
 
@@ -14,8 +10,12 @@ Semana actual
 Enlace para las páginas de coches:
 https://agendamotor.es/organizador/coches-clasicos-madrid/
 
-Enlace para montaje vídeo trabajo:
-https://www.youtube.com/watch?v=v_zZmsFZDaM
+Enlaces para encriptar partición en usb:
+https://www.youtube.com/watch?v=qdIFEeYgfBI
+
+
+Lo que me comentó Santi para el tema de desarrollo es montarme un:
+En GitHub todo el tema de pulls, push etc. conectado con proyectos Java Maven, Spring MVC y mediante JPA acceder a una MySQL o Santi me recomendó utilizar PostgreSQL
 
 
 
