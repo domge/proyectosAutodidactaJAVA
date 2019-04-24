@@ -85,7 +85,7 @@ Mudmen 1972
 Childhood's End 1972
 Stay 1972
 Absolutely Curtains 1972
-Time 1973
+Time 173
 The Great Gig in the Sky 1973
 Any Colour You Like 1973
 Brain Damage 1973
@@ -120,6 +120,7 @@ The Dogs of War 1987
 On the Turning Away/Yet Another Movie 1987
 A New Machine (Part 1) 1987
 A New Machine (Part 2) 1987
+Sorrow 1987 
 
 
 bso The Mummy 1
