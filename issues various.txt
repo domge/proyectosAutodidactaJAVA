@@ -2,8 +2,7 @@ Lo que me comentó Santi para el tema de desarrollo es montarme un:
 En GitHub todo el tema de pulls, push etc. conectado con proyectos Java Maven, Spring MVC y mediante JPA acceder a una MySQL o Santi me recomendó utilizar PostgreSQL
 
 
-
-Pisos:
+Pisos a la hora de alquilar:
 ¿IBI, comunidad?
 
 ¿garantías económicas que solicitan?
